@@ -74,7 +74,6 @@ I am a Python Developer from Russia :ru:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rockmate?theme=unicorn)
 </h3>
 </div>
-    
 
 
     
