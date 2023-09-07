@@ -9,7 +9,7 @@
   <a href="https://t.me/vjuhandsleep">
     <img src="https://img.shields.io/badge/Telegram-white?logo=Telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="grishasafonov008@gmail.com">
+  <a href="ovideys@mail.ru">
     <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   <div id="badges">
@@ -44,7 +44,7 @@ I am a Python Developer from Russia :ru:
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-plain-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-plain-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/1784648/97818784-c4fc1080-1ca4-11eb-8681-56ec3fa21756.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
