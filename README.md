@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/PnUatAYWMEMvmiwsyx/giphy.gif" width="300"/>
+</div>
+
+
 <div id="badges">
   <a href="https://t.me/vjuhandsleep">
     <img src="https://img.shields.io/badge/Telegram-white?logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
