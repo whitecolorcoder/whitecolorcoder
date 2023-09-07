@@ -1,5 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="350"/>
+<div align="center">
+  
+![download(3)](https://github.com/whitecolorcoder/whitecolorcoder/assets/110350689/d6ec4054-52c7-4df3-87df-8edcbb0fda6e)
+</div>
+
 </div> 
 
 <div id="badges" align ="center">
