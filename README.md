@@ -56,7 +56,7 @@ I am a Python Developer from Russia :ru:
 
 <div align="left">
 <h3>
-:fire: My Stats :
+:fire: My Stat :
 </h3>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=whitecolorcoder&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats) 
