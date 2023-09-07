@@ -2,7 +2,7 @@
   <a href="https://t.me/vjuhandsleep">
     <img src="https://img.shields.io/badge/Telegram-white?logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="grishasafonov008@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>
