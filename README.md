@@ -64,6 +64,12 @@ I am a Python Developer from Russia :ru:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitecolorcoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<div align="left">
+  <a href="https://stepik.org/users/478867598/profile">    
+<img src="https://img.shields.io/badge/stepik-black?logo=&logoColor=white&style=for-the-badge" width="230" height="90"/>
+  </a>
+</div>
+
 ---
 
 <div align="left">
@@ -77,14 +83,3 @@ I am a Python Developer from Russia :ru:
 
 
     
-
-
-
-
-
-
-
-
-
-
-
