@@ -9,7 +9,7 @@
   <a href="https://t.me/vjuhandsleep">
     <img src="https://img.shields.io/badge/Telegram-white?logo=Telegram&logoColor=blue&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:grishasafonov008@gmail.com">
+  <a href="https://www.google.com/search?client=safari&rls=en&q=grishasafonov008@gmail.com&ie=UTF-8&oe=UTF-8">
     <img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   <div id="badges">
