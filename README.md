@@ -75,6 +75,9 @@ I am a Python Developer from Russia :ru:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rockmate?theme=unicorn)
 </h3>
-<img src="https://www.codewars.com/users/LazerQueen/badges/large" width="500" height="300"/>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitecolorcoder&show_icons=true&theme=dracula)
+
+
+![Codewars](https://github.r2v.ch/codewars?user=LazerQueen&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
