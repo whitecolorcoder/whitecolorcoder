@@ -73,10 +73,8 @@ I am a Python Developer from Russia :ru:
 <h3>
 :dart: Work with algorithms:
 
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rockmate?theme=unicorn)
 </h3>
+<img src="https://www.codewars.com/users/LazerQueen/badges/large" width="500" height="300"/>
 </div>
 
-
-    
